@@ -1,0 +1,37 @@
+.main {
+    display: flex;
+
+}
+
+.container {
+    flex: 50%;
+    padding: 15px;
+    margin: 10px;
+    padding-left: 5px;
+}
+
+.container td {
+    text-align: justify;
+    color: navy;
+    
+   
+}
+
+.container h4 {
+    color: deeppink;
+}
+
+.tmbtable pre {
+    color: navy;
+    font-weight: bold;
+    font-family: calibri;
+    line-height: 0.6;
+}
+ 
+body{
+    margin: 32px;
+}
+
+#between td{
+    border-right: 4px;
+}
