@@ -8,4 +8,5 @@ By using many ways this project can be build:
   2. By using <form> tag with various <input> fields.
 
 Thank you for looking into this form! Happy day.
+I have uploaded the original application form for your reference, please use them for your educational purposes only.
 If you have any doubts you can mail me at rajashreecsetec20@gmail.com
